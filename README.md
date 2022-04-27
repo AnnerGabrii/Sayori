@@ -36,7 +36,7 @@
 		
 		<h2> <p align="left"><font color="FD3A46">Imagens<p></font></h2>
 		
-		<img width="25%" src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/8/8c/Screenshot0002.png/revision/latest/scale-to-width-down/1000?cb=20180316014557&path-prefix=pt-br">      <img width="25%" src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/2/21/SayoriCena1-1.png/revision/latest/scale-to-width-down/1000?cb=20180316014316&path-prefix=pt-br">      <img width="23%" src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/8/8a/SayoriCena2-1.png/revision/latest/scale-to-width-down/1000?cb=20180316014320&path-prefix=pt-br"> <img width="23%" src="https://steamuserimages-a.akamaihd.net/ugc/945096193863886159/226003440C880DA612985DC66BF457B4E4FA9166/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">      
+		<img width="30%" src="https://lh3.googleusercontent.com/zY8OokxIe07NTU2qk-CMibRqs4JKc-pRQOvtB0Ti16slWtTI6i4iigCZQX7Yu6-yirwBMCvMqRltsJ_mWMAThklhPg=w640-h400-e365-rj-sc0x00ffffff">  <img width="34%" src="https://steamuserimages-a.akamaihd.net/ugc/945096193863886159/226003440C880DA612985DC66BF457B4E4FA9166/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">      
 
 	</body>
 	
