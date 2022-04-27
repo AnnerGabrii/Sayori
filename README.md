@@ -23,7 +23,8 @@
 		
 	   <title="texto retirado" datetime "21/04/2022">
 	   
-	   <center><img  alt="imagem não encontrada" width="40%"src="https://static.wikia.nocookie.net/doki-doki-literature-club/images/8/8c/Screenshot0002.png/revision/latest/scale-to-width-down/1000?cb=20180316014557&path-prefix=pt-br"></center>
+	   <center><img  alt="imagem não encontrada" width="40%"src="https://uploads.spiritfanfiction.com/historias/capitulos/201803/doki-doki-literature-club-12382555-130320182224.png"> </center>   
+
 	   
 	   <h2> <p align=><center><font color="F8545E">Um pouco mais sobre: Sayori<p></font></h2>
 	   <h2> <p align="left"><font color="FD3A46">Personalidade<p></font></h2>
@@ -36,7 +37,7 @@
 		
 		<h2> <p align="left"><font color="FD3A46">Imagens<p></font></h2>
 		
-		<img width="30%" src="https://lh3.googleusercontent.com/zY8OokxIe07NTU2qk-CMibRqs4JKc-pRQOvtB0Ti16slWtTI6i4iigCZQX7Yu6-yirwBMCvMqRltsJ_mWMAThklhPg=w640-h400-e365-rj-sc0x00ffffff">  <img width="34%" src="https://steamuserimages-a.akamaihd.net/ugc/945096193863886159/226003440C880DA612985DC66BF457B4E4FA9166/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">      
+		<img width="30%" src="https://lh3.googleusercontent.com/zY8OokxIe07NTU2qk-CMibRqs4JKc-pRQOvtB0Ti16slWtTI6i4iigCZQX7Yu6-yirwBMCvMqRltsJ_mWMAThklhPg=w640-h400-e365-rj-sc0x00ffffff">  <img width="34%" src="https://steamuserimages-a.akamaihd.net/ugc/945096193863886159/226003440C880DA612985DC66BF457B4E4FA9166/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">	
 
 	</body>
 	
